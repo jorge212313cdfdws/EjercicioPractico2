@@ -1,0 +1,2 @@
+Error: Could not find or load main class ProcesadorContabilidad
+Caused by: java.lang.ClassNotFoundException: ProcesadorContabilidad
